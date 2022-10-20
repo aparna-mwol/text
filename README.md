@@ -11,7 +11,7 @@
   <a href="https://wa.me/917012751946"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
   
-<a href="https://aparna-qr.herokuapp.com/"><img align="center" src="https://www.linkpicture.com/q/20221020_131929.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://aparna-qr.herokuapp.com/"><img align="center" src="https://www.linkpicture.com/q/20221020_131903_1.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
