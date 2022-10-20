@@ -27,5 +27,5 @@
 
 <div align="left">
 
-## _thankz To [Afx-Abu](https://github.com/Afx-Abu)_
+## _Thankz To [Afx-Abu](https://github.com/Afx-Abu)_
 
